@@ -6,6 +6,9 @@ export default {
   
     themeConfig: {
       // theme-level options
+      search: {
+        provider: 'local'
+      },
       nav:[
         {text:'About',links:'/about'},
       ],

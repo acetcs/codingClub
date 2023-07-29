@@ -1,5 +1,18 @@
-# Getting Started
+---
+layout: home
 
-### What is these Coding Club about?
-
-These coding club will give was designed for the students specially in my college, for them to be a better engineer and to be prepared for the interviews in the college placement.
+hero:
+  name: Coding Club
+  text: The ACET Coding Club breathes, smells, and feels code.
+  tagline: Theory can take you so far, time to put it into code.
+  image:
+    src: /src/logo.jpg
+    alt: CodingCLub
+  actions:
+    - theme: brand
+      text: Get Started
+      link: /guide/what-is-codingclub
+    - theme: alt
+      text: View on GitHub
+      link: https://github.com/acetcs/codingclub
+---

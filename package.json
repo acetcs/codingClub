@@ -21,5 +21,8 @@
   "homepage": "https://github.com/acetcs/codingClub#readme",
   "devDependencies": {
     "vitepress": "^1.0.0-beta.6"
+  },
+  "dependencies": {
+    "firebase": "^10.1.0"
   }
 }
