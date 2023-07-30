@@ -3,7 +3,7 @@ export default {
   // site-level options
   title: 'Coding Club',
   description: 'Just playing around.',
-
+  ignoreDeadLinks: true,
   themeConfig: {
 
     search: {
@@ -27,7 +27,8 @@ export default {
 function nav() {
   return [
     { text: 'Guide', link: '/guide/introduction.md', activeMatch: '/guide' },
-    { text: 'College', link: '/college/introduction.md', activeMatch: '/college' }
+    { text: 'College', link: '/college/introduction.md', activeMatch: '/college' },
+    { text: 'Contributors', link: '/contributor/index.md', activeMatch: '/contributor'}
   ]
 }
 function sidebarGuide() {
@@ -75,7 +76,7 @@ function sidebarGuide() {
       collapsed: false,
       items: [
         { text: 'What about it?', link: 'guide/aboutcom.md' },
-        { text: 'How to join?', link: 'guide/join.md' },
+        { text: 'How to contribute?', link: 'guide/contribute.md' },
         { text: 'Community Guidelines', link: 'guide/guidelines.md' },
 
       ]
