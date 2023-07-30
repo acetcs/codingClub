@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./chunks/framework.b1ba171e.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/what-is-codingclub.md","filePath":"guide/what-is-codingclub.md"}'),c={name:"guide/what-is-codingclub.md"};function o(i,s,n,r,d,l){return t(),a("div")}const _=e(c,[["render",o]]);export{u as __pageData,_ as default};
