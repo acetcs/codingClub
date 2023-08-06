@@ -1,11 +1,7 @@
 {
   "hosting": {
     "site": "acet-codingclub",
-    "public": "public",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ]
+    "public": "docs/.vitepress/dist",
+    "ignore": []
   }
 }
