@@ -47,9 +47,9 @@ function sidebarGuide() {
       collapsed: false,
       items: [
         { text: 'Introduction', link: 'guide/intro.md' },
-        { text: 'Data Structures and Algorithm', link: 'guide/DSA.md' },
-        { text: 'Frontend Development', link: 'guide/frontend.md' },
-        { text: 'Backend Development', link: 'guide/backend.md' },
+        { text: 'First month', link: 'guide/1month.md' },
+        { text: 'Second month', link: 'guide/2month.md' },
+        { text: 'Third month', link: 'guide/3month.md' },
 
       ]
     },
