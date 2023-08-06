@@ -38,6 +38,7 @@ function sidebarGuide() {
       collapsed: false,
       items: [
         { text: 'Introduction', link: 'guide/introduction.md' },
+        { text: 'Announcements 📢', link: 'guide/announce.md' },
 
       ]
     },
