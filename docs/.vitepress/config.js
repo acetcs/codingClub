@@ -33,12 +33,12 @@ function nav() {
 }
 function sidebarGuide() {
   return [
+    {text: 'Announcements 📢', link: 'guide/announce.md' },
     {
       text: 'Getting Started',
       collapsed: false,
       items: [
-        { text: 'Introduction', link: 'guide/introduction.md' },
-        { text: 'Announcements 📢', link: 'guide/announce.md' },
+        { text: 'Introduction', link: 'guide/introduction.md' }
 
       ]
     },
