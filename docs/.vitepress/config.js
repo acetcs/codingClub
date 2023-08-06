@@ -2,7 +2,7 @@
 export default {
   // site-level options
   title: 'Coding Club',
-  description: 'Just playing around.',
+  description: 'The ACET coding club',
   ignoreDeadLinks: true,
   themeConfig: {
 
