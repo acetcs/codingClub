@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "acet-codingclub",
     "public": "docs/.vitepress/dist",
     "ignore": []
   }

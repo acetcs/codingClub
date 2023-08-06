@@ -6,7 +6,7 @@ hero:
   text: The ACET Coding Club breathes, smells, and feels code.
   tagline: Theory can take you so far, time to put it into code.
   image:
-    src: https://i.ibb.co/5vp22LK/4401280.jpg
+    src: https://i.ibb.co/mG4hbpL/4401280-removebg-preview.png
     alt: CodingClub
   actions:
     - theme: brand
