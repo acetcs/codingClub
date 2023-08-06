@@ -20,7 +20,7 @@ export default {
 
     footer: {
       message: 'Released under the ACET License.',
-      copyright: 'Copyright © 2023-present Saif Rahman'
+      copyright: 'Copyright © 2023-present Coding Club'
     }
   }
 }
