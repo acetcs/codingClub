@@ -1,4 +1,4 @@
-# Contributors
+# Members
 
 <br/>
 <a href="https://github.com/acetcs/codingclub/graphs/contributors">

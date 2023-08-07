@@ -13,6 +13,6 @@ hero:
       text: Get Started
       link: /guide/introduction
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/acetcs/codingclub
+      text: Join the club
+      link: https://acetcs.github.io/forms/
 ---
