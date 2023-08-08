@@ -2,7 +2,7 @@
 export default {
   // site-level options
   title: 'Coding Club',
-  description: 'Just playing around.',
+  description: 'The ACET coding club',
   ignoreDeadLinks: true,
   themeConfig: {
 
@@ -12,7 +12,8 @@ export default {
     nav: nav(),
     sidebar: {
       '/guide': sidebarGuide(),
-      'college': sidebarcollege()
+      'college': sidebarcollege(),
+      '/members': sidermembers(),
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/acetcs/codingclub' }
@@ -20,7 +21,7 @@ export default {
 
     footer: {
       message: 'Released under the ACET License.',
-      copyright: 'Copyright © 2023-present Saif Rahman'
+      copyright: 'Copyright © 2023-present Coding Club'
     }
   }
 }
@@ -28,7 +29,7 @@ function nav() {
   return [
     { text: 'Guide', link: '/guide/introduction.md', activeMatch: '/guide' },
     { text: 'College', link: '/college/introduction.md', activeMatch: '/college' },
-    { text: 'Contributors', link: '/contributor/index.md', activeMatch: '/contributor'}
+    { text: 'Members', link: '/members/index.md', activeMatch: '/members'}
   ]
 }
 function sidebarGuide() {
@@ -47,9 +48,9 @@ function sidebarGuide() {
       collapsed: false,
       items: [
         { text: 'Introduction', link: 'guide/intro.md' },
-        { text: 'Data Structures and Algorithm', link: 'guide/DSA.md' },
-        { text: 'Frontend Development', link: 'guide/frontend.md' },
-        { text: 'Backend Development', link: 'guide/backend.md' },
+        { text: 'First month', link: 'guide/1month.md' },
+        { text: 'Second month', link: 'guide/2month.md' },
+        { text: 'Third month', link: 'guide/3month.md' },
 
       ]
     },
@@ -79,7 +80,7 @@ function sidebarGuide() {
         { text: 'What about it?', link: 'guide/aboutcom.md' },
         { text: 'How to contribute?', link: 'guide/contribute.md' },
         { text: 'Community Guidelines', link: 'guide/guidelines.md' },
-
+        {text: "Be a member", link:'https://acetcs.github.io/forms/'}
       ]
     },
   ]
@@ -105,5 +106,18 @@ function sidebarcollege() {
 
       ]
     },
+  ]
+}
+function sidermembers(){
+  return[
+    {
+      text: "Members",
+      collapsed: false,
+      items: [
+        {text: "Show-case", link:'/members/index.md'},
+        {text: "Individual Projects", link:'members/project.md'},
+        {text: "Be a member", link:'https://acetcs.github.io/forms/'}
+      ]
+    }
   ]
 }
