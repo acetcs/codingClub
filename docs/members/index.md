@@ -54,4 +54,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://avatars.githubusercontent.com/u/68467952?v=4" alt="Cat" class="rounded-corners" width="60" height="60" style="border-radius: 50%;" />
 &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://avatars.githubusercontent.com/u/114662759?v=4" alt="Cat" class="rounded-corners" width="60" height="60" style="border-radius: 50%;" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://avatars.githubusercontent.com/u/141816914?v=4" alt="Cat" class="rounded-corners" width="60" height="60" style="border-radius: 50%;" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 </section>
