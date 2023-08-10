@@ -1,31 +1,16 @@
 # Members
-<style>
-  @media (max-width: 480px) {
-  section {
-    width: 800px;
-  display: grid;
-  grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
-  grid-auto-columns:60px; 
-  row-gap:1rem;
-  justify-content: center;
-  align-items: center;
-  justify-content: space;
-  }
-  @media (min-width: 480px) {
-  section {
-  width: 600px;
-  display: grid;
-  grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
-  grid-auto-columns:60px; 
-  row-gap:1rem;
-  justify-content: center;
-  align-items: center;
-  justify-content: space;
-  }
-}
-</style>
+
 <br/>
-<section>
+<section style="
+width: 600px;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
+  grid-auto-columns:60px; 
+  row-gap:1rem;
+  justify-content: center;
+  align-items: center;
+  justify-content: space;
+">
 <img src="https://avatars.githubusercontent.com/u/64410006?v=4" alt="Cat" class="rounded-corners" width="60" height="60" style="border-radius: 50%;" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://avatars.githubusercontent.com/u/69713628?v=4" alt="Cat" class="rounded-corners" width="60" height="60" style="border-radius: 50%;" />
