@@ -1,17 +1,31 @@
 # Members
-
-<br/>
-<section style="
-  width: 600px;
+<style>
+  @media (max-width: 480px) {
+  section {
+    width: 800px;
   display: grid;
   grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
-  gird-auto-rows: 60px;
   grid-auto-columns:60px; 
   row-gap:1rem;
   justify-content: center;
   align-items: center;
   justify-content: space;
-">
+  }
+  @media (min-width: 480px) {
+  section {
+  width: 600px;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
+  grid-auto-columns:60px; 
+  row-gap:1rem;
+  justify-content: center;
+  align-items: center;
+  justify-content: space;
+  }
+}
+</style>
+<br/>
+<section>
 <img src="https://avatars.githubusercontent.com/u/64410006?v=4" alt="Cat" class="rounded-corners" width="60" height="60" style="border-radius: 50%;" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://avatars.githubusercontent.com/u/69713628?v=4" alt="Cat" class="rounded-corners" width="60" height="60" style="border-radius: 50%;" />
@@ -36,8 +50,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://avatars.githubusercontent.com/u/107542339?v=4" alt="Cat" class="rounded-corners" width="60" height="60" style="border-radius: 50%;" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/u/103185295?v=4" alt="Cat" class="rounded-corners" width="60" height="60" style="border-radius: 50%;" />
-&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://avatars.githubusercontent.com/u/130158867?v=4" alt="Cat" class="rounded-corners" width="60" height="60" style="border-radius: 50%;" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://avatars.githubusercontent.com/u/112007766?v=4" alt="Cat" class="rounded-corners" width="60" height="60" style="border-radius: 50%;" />
@@ -47,10 +59,6 @@
 <img src="https://avatars.githubusercontent.com/u/114392878?v=4" alt="Cat" class="rounded-corners" width="60" height="60" style="border-radius: 50%;" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://avatars.githubusercontent.com/u/115923863?v=4" alt="Cat" class="rounded-corners" width="60" height="60" style="border-radius: 50%;" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/u/130158867?v=4" alt="Cat" class="rounded-corners" width="60" height="60" style="border-radius: 50%;" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/u/103185295?v=4" alt="Cat" class="rounded-corners" width="60" height="60" style="border-radius: 50%;" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://avatars.githubusercontent.com/u/68467952?v=4" alt="Cat" class="rounded-corners" width="60" height="60" style="border-radius: 50%;" />
 &nbsp;&nbsp;&nbsp;&nbsp;
