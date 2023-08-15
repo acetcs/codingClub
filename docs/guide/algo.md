@@ -2,7 +2,7 @@
 
 Algorithms plays an important part in computer science engineering
 
-Here is the github Repo for all the Algorithms: ![github](/wp.png "Title") [Click here](https://github.com/acetcs/algorithms)
+Here is the github Repo for all the Algorithms: [Click here](https://github.com/acetcs/algorithms)
 
 Algorithms are divided into making types but here we are only going to classify into two types i.e.
 - Searching
