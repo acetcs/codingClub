@@ -68,9 +68,7 @@ int main(){
 
 #include<iostream>
 
-int main(){
-    int arr[]={25,6,9,1,17,99,38,48};
-    int size=sizeof(arr)/sizeof(arr[0]);
+int * selectionSort(int arr[],int size){
     for(int i=0;i<size;i++){
         for(int j=i;j<size;j++){
             if(arr[i]>arr[j]){
@@ -80,26 +78,31 @@ int main(){
             }
         }
     }
+    return arr;
+}
+void printArray(int arr[],int size){
     for(int i=0;i<size;i++){
-        std::cout<<arr[i<<std::endl;
+        std::cout<<arr[i]<<std::endl;
     }
+}
+int main(){
+    int arr[]={25,6,9,1,17,99,38,48};
+    int size=sizeof(arr)/sizeof(arr[0]);
+    selectionSort(arr,size);
+    printArray(arr,size);
 }
 ```
 #### 2. Insertion Sort
 
 ```Cpp Client
 #include<iostream>
-
-int main(){
-    int arr[]={25,6,9,1,17,99,38,48};
-    int size=sizeof(arr)/sizeof(arr[0]);
-
-    for(int i=0;i<size;i++){
+int * insertionSort(int arr[],int size){
+    for(int i=0;i<size-1;i++){
         if(arr[i]>arr[i+1]){
             arr[i]=arr[i]-arr[i+1];
             arr[i+1]=arr[i+1]+arr[i];
             arr[i]=arr[i+1]-arr[i];
-            for(int j=i;j<0;j--){
+            for(int j=i;j>0;j--){
                 if(arr[j]<arr[j-1]){
                     arr[j-1]=arr[j-1]-arr[j];
                     arr[j]=arr[j]+arr[j-1];
@@ -108,8 +111,57 @@ int main(){
             }
         }
     }
+    return arr;
+}
+void printArray(int arr[],int size){
     for(int i=0;i<size;i++){
-        std::cout<<arr[i<<std::endl;
+        std::cout<<arr[i]<<std::endl;
     }
 }
+int main(){
+    int arr[]={25,6,9,1,17,99,38,48};
+    int size=sizeof(arr)/sizeof(arr[0]);
+    insertionSort(arr,size);
+    printArray(arr,size);
+}
+```
+
+#### 3. Bubble sort
+
+```Cpp Client
+
+#include<iostream>
+
+int * bubblesort(int arr[],int size){
+    int i=size;
+    while(i!=0){
+        for(int j=0;j<i;j++){
+            if(arr[j]>arr[j+1]){
+                arr[j]=arr[j]-arr[j+1];
+                arr[j+1]=arr[j+1]+arr[j];
+                arr[j]=arr[j+1]-arr[j];
+            }
+        }
+        i--;
+    }
+    return arr;
+}
+void printArray(int arr[],int size){
+    for(int i=0;i<size;i++){
+        std::cout<<arr[i]<<std::endl;
+    }
+}
+int main(){
+    int arr[]={41,2,3,81,9,1,-5,0};
+    int size=sizeof(arr)/sizeof(arr[0]);
+    bubblesort(arr,size);
+    printArray(arr,size);
+}
+
+```
+
+#### 4. Merge sort
+
+```Cpp Client
+
 ```
