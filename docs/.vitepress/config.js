@@ -116,7 +116,8 @@ function sidermembers(){
       items: [
         {text: "Show-case", link:'/members/index.md'},
         {text: "Individual Projects", link:'members/project.md'},
-        {text: "Be a member", link:'https://acetcs.github.io/forms/'}
+        {text: "Be a member", link:'https://acetcs.github.io/forms/'},
+        {text: "Join the whatsapp group", link:'members/group.md'}
       ]
     }
   ]
