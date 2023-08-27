@@ -1,4 +1,4 @@
-# Join the our Club's Whatsapp group
+# Join our Club's Whatsapp group
 
 <div class="tip custom-block" style="padding-top: 8px">
 
