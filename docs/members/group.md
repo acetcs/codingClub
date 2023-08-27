@@ -8,4 +8,14 @@
 
 ### To join the whatsapp group click on the below link.
 
-Join by [clicking here](https://chat.whatsapp.com/CjylBRApCEzGiR7tOyavXi)
+<button style="display: inline-block;
+               padding: 8px 15px;
+               border-radius: 10px;
+               background-color: green;
+               color: white;
+               text-align: center;
+               text-decoration: none;
+               font-size: 15px;
+               border: none;
+               cursor: pointer;"
+               onclick= "window.location.href = 'https://chat.whatsapp.com/CjylBRApCEzGiR7tOyavXi';">Join the Group</button>
