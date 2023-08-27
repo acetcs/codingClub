@@ -56,4 +56,6 @@ width: 600px;
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://avatars.githubusercontent.com/u/119845743?v=4" alt="Cat" class="rounded-corners" width="55" height="55" style="border-radius: 50%;" />
 &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://avatars.githubusercontent.com/u/114391985?v=4" alt="Cat" class="rounded-corners" width="55" height="55" style="border-radius: 50%;" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 </section>
