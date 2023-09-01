@@ -65,6 +65,16 @@ function sidebarGuide() {
       ]
     },
     {
+      text: 'Object Oriented Concepts',
+      collapsed: false,
+      items: [
+        { text: 'How to learn?', link: 'guide/learn.md' },
+        { text: 'Data Structure', link: 'guide/ds.md' },
+        { text: 'Algorithm', link: 'guide/algo.md' },
+
+      ]
+    },
+    {
       text: 'Web Development',
       collapsed: false,
       items: [
