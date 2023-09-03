@@ -14,6 +14,7 @@ export default {
       '/guide': sidebarGuide(),
       'college': sidebarcollege(),
       '/members': sidermembers(),
+      '/contests': sidebarcontest()
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/acetcs/codingclub' }
@@ -28,6 +29,7 @@ export default {
 function nav() {
   return [
     { text: 'Guide', link: '/guide/introduction.md', activeMatch: '/guide' },
+    { text: 'Contests', link: '/contests/index.md', activeMatch: '/contests'},
     { text: 'College', link: '/college/introduction.md', activeMatch: '/college' },
     { text: 'Members', link: '/members/index.md', activeMatch: '/members'}
   ]
@@ -128,6 +130,19 @@ function sidermembers(){
         {text: "Individual Projects", link:'members/project.md'},
         {text: "Be a member", link:'https://acetcs.github.io/forms/'},
         {text: "Join the whatsapp group", link:'members/group.md'}
+      ]
+    }
+  ]
+}
+function sidebarcontest(){
+  return[
+    {
+      text: "Contests",
+      collapsed: false,
+      items:[
+        {text: "About contests", link:'/contests/index.md'},
+        {text: "Live contests", link:'/contests/live.md'},
+        {text: "Previous contest", link:'contests/pre.md'}
       ]
     }
   ]
