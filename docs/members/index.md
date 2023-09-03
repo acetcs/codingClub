@@ -20,7 +20,7 @@
 </style>
 <br/>
 
-<div class="image-gallery" >
+<div class="image-gallery">
 
 <img src="https://avatars.githubusercontent.com/u/64410006?v=4" title="Saif" class="rounded-corners" width="55" height="55" style="border-radius: 50%;" />
 &nbsp;&nbsp;&nbsp;&nbsp;
