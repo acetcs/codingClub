@@ -1,0 +1,19 @@
+# Join our Club's Whatsapp group
+
+<div class="tip custom-block" style="padding-top: 8px">
+
+**Note** - Only the Student who has filled valid details in the members form are accepted in the group. If not, here is the [form to fill the details.](https://acetcs.github.io/forms/)
+
+</div>
+
+<button style="display: inline-block;
+               padding: 8px 15px;
+               border-radius: 10px;
+               background-color: green;
+               color: white;
+               text-align: center;
+               text-decoration: none;
+               font-size: 15px;
+               border: none;
+               cursor: pointer;"
+               onclick= "window.location.href = 'https://chat.whatsapp.com/CjylBRApCEzGiR7tOyavXi';">Join the Group</button>

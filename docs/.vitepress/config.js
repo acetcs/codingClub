@@ -14,6 +14,7 @@ export default {
       '/guide': sidebarGuide(),
       'college': sidebarcollege(),
       '/members': sidermembers(),
+      '/contests': sidebarcontest()
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/acetcs/codingclub' }
@@ -28,6 +29,7 @@ export default {
 function nav() {
   return [
     { text: 'Guide', link: '/guide/introduction.md', activeMatch: '/guide' },
+    { text: 'Contests', link: '/contests/index.md', activeMatch: '/contests'},
     { text: 'College', link: '/college/introduction.md', activeMatch: '/college' },
     { text: 'Members', link: '/members/index.md', activeMatch: '/members'}
   ]
@@ -56,6 +58,16 @@ function sidebarGuide() {
     },
     {
       text: 'Data Structure and Algorithm',
+      collapsed: false,
+      items: [
+        { text: 'How to learn?', link: 'guide/learn.md' },
+        { text: 'Data Structure', link: 'guide/ds.md' },
+        { text: 'Algorithm', link: 'guide/algo.md' },
+
+      ]
+    },
+    {
+      text: 'Object Oriented Concepts',
       collapsed: false,
       items: [
         { text: 'How to learn?', link: 'guide/learn.md' },
@@ -116,7 +128,21 @@ function sidermembers(){
       items: [
         {text: "Show-case", link:'/members/index.md'},
         {text: "Individual Projects", link:'members/project.md'},
-        {text: "Be a member", link:'https://acetcs.github.io/forms/'}
+        {text: "Be a member", link:'https://acetcs.github.io/forms/'},
+        {text: "Join the whatsapp group", link:'members/group.md'}
+      ]
+    }
+  ]
+}
+function sidebarcontest(){
+  return[
+    {
+      text: "Contests",
+      collapsed: false,
+      items:[
+        {text: "About contests", link:'/contests/index.md'},
+        {text: "Live contests", link:'/contests/live.md'},
+        {text: "Previous contest", link:'contests/pre.md'}
       ]
     }
   ]

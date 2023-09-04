@@ -25,7 +25,7 @@ Do the following as shown in the above site, and make the changes as per your ac
 
 ### When you have the folder in your desktop do the following in your codingClub folder
 
-```
+``` bash
 npm init
 npm install --save-dev vitepress
 ```
@@ -34,15 +34,15 @@ after these commands you are good to go to make the changes in the application
 
 to check the changes in the site, run the following command in your terminal
 
-```
+``` bash
 npm run docs:dev
 ```
 
 after editing, push the code to the github repository by 
 
 
-```
-git add --all
+``` bash
+git add guide/index.md #address of the file that is changed
 git commit -m "your message here"
 git push origin main
 ```

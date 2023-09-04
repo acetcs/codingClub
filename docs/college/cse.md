@@ -7,5 +7,5 @@ these is a first year section and you should focus on having fun.
 this is the start of our journey 
 ## [Third year](./cse/third.md)
 
-
+This is third year, be exicted
 ## [Fourth year](./cse/fourth.md)
