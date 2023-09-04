@@ -1,4 +1,3 @@
-# Learn Front-End
 <style>
     .card {
         width: 260px;
@@ -64,6 +63,21 @@
     }
 
 </style>
+# 🖥️ Frontend:
+
+Frontend refers to the part of a website or web application that users see and interact with directly. It's like the "face" of the web application. Here are some key aspects:
+
+- **User Interface (UI):** The frontend includes all the elements that users can see and interact with on a webpage, such as buttons, forms, images, and text.
+
+- **Design and Layout:** Frontend developers work on the layout, design, and visual aspects of a website. They ensure that it looks appealing and is easy to navigate.
+
+- **Interactivity:** Frontend code, often written in HTML, CSS, and JavaScript, adds interactivity to the webpage. This includes animations, form validation, and real-time updates.
+
+- **Client-Side:** The frontend runs on the user's device (e.g., their computer or smartphone). It communicates with the backend to fetch data and perform actions.
+
+- **Responsiveness:** Frontend developers make sure that the web application adapts to different screen sizes and devices, providing a consistent user experience.
+
+## Learn Front-end
 <br>
 <div class="course-container">
 <div class="course">
