@@ -82,10 +82,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://avatars.githubusercontent.com/u/132865550?v=4" title="Reeba" class="rounded-corners" width="55" height="55" style="border-radius: 50%;" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/u/127579447?v=4" title="Reeba" class="rounded-corners" width="55" height="55" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/u/127579447?v=4" title="Mehvish" class="rounded-corners" width="55" height="55" style="border-radius: 50%;" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/u/114987199?v=4" title="Reeba" class="rounded-corners" width="55" height="55" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/u/114987199?v=4" title="Zaid" class="rounded-corners" width="55" height="55" style="border-radius: 50%;" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/u/114479043?v=4" title="Reeba" class="rounded-corners" width="55" height="55" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/u/114479043?v=4" title="Simmi" class="rounded-corners" width="55" height="55" style="border-radius: 50%;" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
