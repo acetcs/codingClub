@@ -81,8 +81,8 @@ function sidebarGuide() {
       collapsed: false,
       items: [
         { text: 'How to learn?', link: 'guide/learnwd.md' },
-        { text: 'Front-end', link: 'guide/front-end.md' },
-        { text: 'Back-end', link: 'guide/back-end.md' },
+        { text: 'Front-end', link: 'guide/frontend.md' },
+        { text: 'Back-end', link: 'guide/backend.md' },
       ]
     },
     {
