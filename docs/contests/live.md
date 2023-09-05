@@ -9,7 +9,7 @@
 Creating an html page is taught to as in our high school and we are going to do the same now, lets go back to the basics. But its not going to be an easy contest.
 <div style="color:#6495ED">
 
-[Click here to enter the contest](/contest.html){target="_self"}
+[Click here to enter the contest](contest.md){target="_self"}
 
 </div>
 :::

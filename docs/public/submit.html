@@ -1,0 +1,82 @@
+<title>Code Submission</title>
+<body>
+    <form class="form" action="https://formspree.io/f/xaygjbbw" method="POST">
+        <div class="title">Submit Code</div>
+        <input type="text" placeholder="Your name" class="input" name="Name" >
+        <input type="text" placeholder="Your year" class="input" name="Year">
+        <input type="text" placeholder="Your section" class="input" name="Section">
+        <input type="text" placeholder="Roll number" class="input" name="Roll number">
+        <textarea placeholder="Enter code here..." name="code"></textarea>
+
+        <button type="submit">Submit</button>
+        <p>Developed by Acet Coding Club - <a href="https://www.linkedin.com/in/asif-khan-2k22">Member</a></p>
+    </form>
+    <br>
+</body>
+<style>
+    body {
+        margin: 0px;
+        background-color: rgb(236, 236, 236);
+        padding: 0px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+    }
+    
+    .form {
+        position: relative;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        gap: 10px;
+        width: 300px;
+        background-color: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 5px 5px 10px rgba(27, 26, 26, 0.315);
+    }
+
+    .form .title {
+        color: royalblue;
+        font-size: 30px;
+        font-weight: 600;
+        letter-spacing: -1px;
+        line-height: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .form input {
+        outline: 0;
+        border: 1px solid rgb(219, 213, 213);
+        padding: 8px 14px;
+        border-radius: 8px;
+        width: 100%;
+        height: 50px;
+    }
+
+    .form textarea {
+        border-radius: 8px;
+        height: 200px;
+        width: 100%;
+        resize: none;
+        outline: 0;
+        padding: 8px 14px;
+        border: 1px solid rgb(219, 213, 213);
+    }
+
+    .form button {
+        align-self: flex-end;
+        padding: 8px;
+        outline: 0;
+        border: 0;
+        border-radius: 8px;
+        font-size: 16px;
+        font-weight: 500;
+        background-color: royalblue;
+        color: #fff;
+        cursor: pointer;
+    }
+</style>
