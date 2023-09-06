@@ -2,7 +2,7 @@
 _Held on teachers day(5th September in CC lab)_
 ## Introduction
 
-The "Art of Code" contest was an exciting journey into the world of coding and creativity. Inspired by Leon Bambrick's insightful article, ["Creating a Quine in HTML is Useless, But It's a Beautiful Art of Code"](https://example.com/leon-bambrick-article), this contest pushed the boundaries of what's possible in HTML and coding as a form of artistic expression.
+The "Art of Code" contest was an exciting journey into the world of coding and creativity. Inspired by Leon Bambrick's insightful article, ["Creating a Quine in HTML is Useless, But It's a Beautiful Art of Code"](https://secretgeek.github.io/html_wysiwyg/html.html), this contest pushed the boundaries of what's possible in HTML and coding as a form of artistic expression.
 
 ## The Beauty of a Quine
 
