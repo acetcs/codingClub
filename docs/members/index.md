@@ -94,10 +94,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://secure.gravatar.com/avatar/978c823e071d0f3951b67840828c6a0d?s=800&d=identicon" title="Sumaira" class="rounded-corners" width="55" height="55" style="border-radius: 50%;" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/u/144091527?v=4" title="Ashar" class="rounded-corners" width="55" height="55" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/u/144091527?v=4" title="Sadique" class="rounded-corners" width="55" height="55" style="border-radius: 50%;" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/u/143951350?v=4" title="Ashar" class="rounded-corners" width="55" height="55" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/u/143951350?v=4" title="Insherah" class="rounded-corners" width="55" height="55" style="border-radius: 50%;" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://avatars.githubusercontent.com/u/133305790?v=4" title="Ashar" class="rounded-corners" width="55" height="55" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/u/133305790?v=4" title="Yusra" class="rounded-corners" width="55" height="55" style="border-radius: 50%;" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
