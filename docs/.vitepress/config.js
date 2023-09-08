@@ -133,7 +133,7 @@ function sidermembers(){
       ]
     }
   ]
-}
+} 
 function sidebarcontest(){
   return[
     {
