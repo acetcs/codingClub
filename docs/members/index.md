@@ -110,4 +110,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://avatars.githubusercontent.com/u/139643861?v=4" title="Tausif_AI" class="rounded-corners" width="55" height="55" style="border-radius: 50%;" />
 &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://avatars.githubusercontent.com/u/130640715?v=4" title="Himanshu" class="rounded-corners" width="55" height="55" style="border-radius: 50%;" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
