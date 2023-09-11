@@ -21,7 +21,7 @@ The WhatsApp community of our club helps its members stay informed about events 
                font-size: 15px;
                border: none;
                cursor: pointer;"
-               onclick= "window.location.href = 'https://discord.gg/zKXtrd7X';">Join the Group</button>
+               onclick= "window.location.href = 'https://chat.whatsapp.com/CjylBRApCEzGiR7tOyavXi';">Join the Group</button>
 
 ## Join our Discord Server as well
 
@@ -38,4 +38,4 @@ The club's Discord server facilitates communication among its members, enabling 
                font-size: 15px;
                border: none;
                cursor: pointer;"
-               onclick= "window.location.href = 'https://chat.whatsapp.com/CjylBRApCEzGiR7tOyavXi';">Join the Server</button>
+               onclick= "window.location.href = 'https://discord.gg/zKXtrd7X';">Join the Server</button>
