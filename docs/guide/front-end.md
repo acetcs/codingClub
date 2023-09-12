@@ -8,7 +8,7 @@
         cursor: pointer;
         transition: .3s;
     }
-
+ 
     .card:hover {
         transform: translateY(-10px);
         box-shadow: 2px 12px 20px rgba(0, 0, 0, 0.226);

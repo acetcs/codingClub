@@ -35,7 +35,7 @@ Are you eager to learn web development but don't know where to start? Or perhaps
     - Server hosting and deployment :cloud:
 
 6. **Full-Stack Development** :globe_with_meridians:
-    - Integrating front-end and back-end :arrows_double_horizontal:
+    - Integrating front-end and back-end
     - The MERN (MongoDB, Express.js, React, Node.js) stack :briefcase:
     - MEAN (MongoDB, Express.js, Angular, Node.js) stack :briefcase:
     - Deployment and server management :rocket:
@@ -71,26 +71,6 @@ Are you eager to learn web development but don't know where to start? Or perhaps
     - Attending meetups and conferences :man_technologist:
     - Networking with other developers :people_holding_hands:
     - Seeking mentorship :raised_hand_with_fingers_splayed:
-
-12. **Job Preparation and Career Guidance** :briefcase:
-    - Resume building :page_with_curl:
-    - Preparing for technical interviews :microscope:
-    - Freelancing vs. full-time positions :office:
-    - Career growth and specialization :chart_with_upwards_trend:
-
-13. **Resources for Advanced Learning** :rocket:
-    - Advanced topics (e.g., Progressive Web Apps, WebAssembly, GraphQL) :fire:
-    - Mastering popular libraries and frameworks :dart:
-    - Specialized fields (e.g., game development, web security) :shield:
-
-14. **Staying Up-to-Date** :calendar:
-    - Keeping up with industry trends :chart_with_upwards_trend:
-    - Blogs, podcasts, and newsletters :headphones:
-    - Continuous learning :books:
-
-15. **Conclusion** :clap:
-    - Celebrating your journey :tada:
-    - Encouragement and next steps :arrow_right:
 
 ## Final Thoughts :raised_hands:
 

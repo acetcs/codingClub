@@ -102,9 +102,9 @@ function sidebarcollege() {
     {
       text: 'Curriculum',
       items: [
-        { text: 'Computer Science and technology', link: 'college/cse.md' },
+        { text: 'CSE', link: 'college/cse.md' },
         { text: 'AI & DS', link: 'college/aids.md' },
-        { text: 'Electronics and telecommunication', link: 'college/etx.md' },
+        { text: 'ETC', link: 'college/etx.md' },
       ]
     },
     {
