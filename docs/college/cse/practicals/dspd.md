@@ -7,6 +7,16 @@
 - Now open TurboC applicaton and browse to your file and just compile it. :stuck_out_tongue_winking_eye:
 - You got the job done under 10 minutes. :sunglasses:
 :::
+<br>
+
+<a href="../../../public/pdfs/DSPD_Lab_manual.pdf">
+<button style="border: none; padding:10px; border-radius: 7px; background: #10b981 ; color:white; font-weight:800;">View Lab Manual</button>
+</a>
+&nbsp;
+<a href="../../../public/pdfs/DSPD_Lab_manual.pdf" download>
+<button style="border: none; padding:10px; border-radius: 7px; background: #10b981 ; color:white; font-weight:800;">Download Lab Manual</button>
+</a>
+
 ## Linear Search
 
 ```C
