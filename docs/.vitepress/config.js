@@ -81,8 +81,8 @@ function sidebarGuide() {
       collapsed: false,
       items: [
         { text: 'How to learn?', link: 'guide/learnwd.md' },
-        { text: 'Front-end', link: 'guide/frontend.md' },
-        { text: 'Back-end', link: 'guide/backend.md' },
+        { text: 'Front-end', link: 'guide/front-end.md' },
+        { text: 'Back-end', link: 'guide/back-end.md' },
       ]
     },
     {
@@ -102,9 +102,9 @@ function sidebarcollege() {
     {
       text: 'Curriculum',
       items: [
-        { text: 'Computer Science and technology', link: 'college/cse.md' },
+        { text: 'CSE', link: 'college/cse.md' },
         { text: 'AI & DS', link: 'college/aids.md' },
-        { text: 'Electronics and telecommunication', link: 'college/etx.md' },
+        { text: 'ETC', link: 'college/etx.md' },
       ]
     },
     {
@@ -133,7 +133,7 @@ function sidermembers(){
       ]
     }
   ]
-}
+} 
 function sidebarcontest(){
   return[
     {
