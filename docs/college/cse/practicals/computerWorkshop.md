@@ -4,8 +4,10 @@
 Most of the online compilers sometimes don't have the specific modules available that we use in our programs but almost every module is available on **[Tio.run](https://tio.run)**. Just select the language and you are good to go.
 :::
 
+[Link to pure.html](/pdfs/CW_Lab_manual.pdf){target="_self"}
+
 <br>
-<a href="CW_Lab_manual.pdf">
+<a href="CW_Lab_manual.pdf">{target="_self"}
 <button style="border: none; padding:10px; border-radius: 7px; background: #10b981 ; color:white; font-weight:800;">View Lab Manual</button>
 </a>
 &nbsp;
