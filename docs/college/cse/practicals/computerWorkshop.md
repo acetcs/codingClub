@@ -5,7 +5,7 @@ Most of the online compilers sometimes don't have the specific modules available
 :::
 
 <br>
-<a href="../../../public/pdfs/CW_Lab_manual.pdf">
+<a href="CW_Lab_manual.pdf">
 <button style="border: none; padding:10px; border-radius: 7px; background: #10b981 ; color:white; font-weight:800;">View Lab Manual</button>
 </a>
 &nbsp;
