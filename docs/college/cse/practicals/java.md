@@ -5,13 +5,11 @@ Most of the online compilers sometimes don't have the specific modules available
 :::
 <br>
 
-<a href="/pdfs/Java_Lab_manual.pdf"  target="_self">
+<a href="/pdfs/Java_Lab_manual.pdf"  target="_self, _blank">
 <button style="border: none; padding:10px; border-radius: 7px; background: #10b981 ; color:white; font-weight:800;">View Lab Manual</button>
 </a>
-&nbsp;
-<a href="/pdfs/Java_Lab_manual.pdf"  target="_self" download>
-<button style="border: none; padding:10px; border-radius: 7px; background: #10b981 ; color:white; font-weight:800;">Download Lab Manual</button>
-</a>
+
+
 
 ## Experiment 1
 ### Experiment 1-A
