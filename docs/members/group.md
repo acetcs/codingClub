@@ -38,4 +38,4 @@ The club's Discord server facilitates communication among its members, enabling 
                font-size: 15px;
                border: none;
                cursor: pointer;"
-               onclick= "window.location.href = 'https://discord.gg/zKXtrd7X';">Join the Server</button>
+               onclick= "window.location.href = 'https://discord.gg/R7yeeMw5';">Join the Server</button>
