@@ -1,17 +1,42 @@
 {
+<<<<<<< HEAD
   "hash": "ae4c97c8",
   "browserHash": "de2fd165",
+=======
+<<<<<<< HEAD
+  "hash": "7752e2ea",
+  "browserHash": "7c137895",
+=======
+  "hash": "c38b1990",
+  "browserHash": "0c981a05",
+>>>>>>> a32fd26a87f1e8cfb57fa0b909b100bb6f95e4b3
+>>>>>>> 40efcba9bf75ed2a17e859513ebf2b759d350cb0
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-browser.js",
       "file": "vue.js",
+<<<<<<< HEAD
       "fileHash": "012dd383",
+=======
+<<<<<<< HEAD
+      "fileHash": "9649e032",
+=======
+      "fileHash": "e5b4e855",
+>>>>>>> a32fd26a87f1e8cfb57fa0b909b100bb6f95e4b3
+>>>>>>> 40efcba9bf75ed2a17e859513ebf2b759d350cb0
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../../node_modules/@vue/devtools-api/lib/esm/index.js",
       "file": "vitepress___@vue_devtools-api.js",
+<<<<<<< HEAD
       "fileHash": "6a076462",
+=======
+<<<<<<< HEAD
+      "fileHash": "8e4a46a2",
+=======
+      "fileHash": "44c8cb4b",
+>>>>>>> 40efcba9bf75ed2a17e859513ebf2b759d350cb0
       "needsInterop": false
     },
     "vitepress > @vueuse/integrations/useFocusTrap": {
@@ -23,12 +48,18 @@
     "vitepress > mark.js/src/vanilla.js": {
       "src": "../../../../node_modules/mark.js/src/vanilla.js",
       "file": "vitepress___mark__js_src_vanilla__js.js",
+<<<<<<< HEAD
       "fileHash": "9fcd7fc5",
+=======
+      "fileHash": "9eb3202f",
+>>>>>>> a32fd26a87f1e8cfb57fa0b909b100bb6f95e4b3
+>>>>>>> 40efcba9bf75ed2a17e859513ebf2b759d350cb0
       "needsInterop": false
     },
     "vitepress > minisearch": {
       "src": "../../../../node_modules/minisearch/dist/es/index.js",
       "file": "vitepress___minisearch.js",
+<<<<<<< HEAD
       "fileHash": "acdaa7f4",
       "needsInterop": false
     }
@@ -38,4 +69,15 @@
       "file": "chunk-TNURRTOV.js"
     }
   }
+=======
+<<<<<<< HEAD
+      "fileHash": "95be5237",
+=======
+      "fileHash": "d91cf6a7",
+>>>>>>> a32fd26a87f1e8cfb57fa0b909b100bb6f95e4b3
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+>>>>>>> 40efcba9bf75ed2a17e859513ebf2b759d350cb0
 }
