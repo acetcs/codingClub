@@ -34,12 +34,12 @@
 I have been a Student of Anjuman College of Engineering for almost 3 years now. I came here from Government Polytechnic Nagpur in 2nd year. Since then I see the potential in the students of my College.
 Anjuman never have a low talent poll, there has always been students with great potential. Unforuntaley they never reach there full potential during there college days (neither did I).
 
-### Our club was an idea to build a community for the students.
+### Our club was an idea to build a developers community for the students.
 
 
 ## What is Github?
 
-You can do the google search. You can go through the internet about what is Github. But here is a rough idea.  
+You can do the google search. You can go through the internet about what is Github. But all Github does is a puts your code files on internet that is managemented and maintained in an organised way. 
   <a href="https://youtu.be/pBy1zgt0XPc?si=eVsl-oEyz1NpmE5s" target="_blank">
-    <img src="./Untitled design(1).png" alt="Watch the video" width="640" height="420">
+    <img src="./github.png" alt="Watch the video" width="640" height="420">
   </a>
