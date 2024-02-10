@@ -92,6 +92,7 @@ function sidebarGuide() {
         { text: 'What about it?', link: 'guide/aboutcom.md' },
         { text: 'How to contribute?', link: 'guide/contribute.md' },
         { text: 'Community Guidelines', link: 'guide/guidelines.md' },
+        {text: 'Why Github?', link: 'guide/github.md'},
         {text: "Be a member", link:'https://acetcs.github.io/forms/'}
       ]
     },
